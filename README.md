@@ -1,6 +1,6 @@
 <h1 align=center><font size = 5>Building Software to Calculate Legendre Differential Equations</font></h1>
 
-<img  src="https://raw.githubusercontent.com/doguilmak/Legendre-Differential-Equations-Calculator-Software/refs/heads/main/assets/spherical_harmonics.png"  alt="Potential Theory and Static Gravity Field of the Earth">
+<img  src="https://raw.githubusercontent.com/doguilmak/Legendre-Differential-Equations-Calculator/refs/heads/main/assets/spherical_harmonics.png"  alt="Potential Theory and Static Gravity Field of the Earth">
 
 <small>Picture Source: <a  href="https://ui.adsabs.harvard.edu/abs/2007gdsy.book...11J/abstract">Potential Theory and Static Gravity Field of the Earth</a></small>
 
@@ -66,7 +66,7 @@ For this project, the focus is on computing the **normalized Legendre function**
 <h2>UI Overview:</h2>
 
 <div align="center">
-	<img width=600  height=750 src="UI.jpg">
+	<img width=600  height=750 src="https://raw.githubusercontent.com/doguilmak/Legendre-Differential-Equations-Calculator/refs/heads/main/assets/UI.jpg">
 </div>
 
 <br>
